@@ -1,4 +1,4 @@
-<img src="zhila.jpg">
+<img src="JILA.jpg">
 
 ## Personal Information
 ----
