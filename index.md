@@ -23,7 +23,7 @@ English
 
 ## Skills
 ----
-• Exele
+• Excel
 
 • Programming Languages(C++)
 
