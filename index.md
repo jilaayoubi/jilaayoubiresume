@@ -53,4 +53,4 @@ Now I am a Bachelors student in computer engineering
 
 ## Social Networks
 ----
--[WhatsApp]:(https://api.whatsapp.com/send?phone=989198936105)
+- [WhatsApp](https://api.whatsapp.com/send?phone=989198936105)
